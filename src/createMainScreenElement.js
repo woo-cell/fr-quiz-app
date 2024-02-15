@@ -11,7 +11,7 @@ function createMainScreenElement() {
     gameTitle.classList.add("game-title");
     slogan.classList.add("slogan");
     gameTitle.textContent = "Trivia";
-    slogan.textContent = "Quiz App: Challenge your Knowledge";
+    slogan.textContent = "Quiz App: Challenge your Knowledge!";
     
     // create the begin button
     const startButton = document.createElement("button");

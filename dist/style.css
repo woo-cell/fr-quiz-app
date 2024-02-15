@@ -1,7 +1,7 @@
 * {
     margin: 0;
     box-sizing: border-box;
-    border: 1px solid grey;
+    /* border: 1px solid grey; */
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -36,6 +36,11 @@
 
 .game-title {
     font-family: titleFont;
+}
+
+.slogan {
+    font-family: titleFont;
+    text-align: center;
 }
 
 .start-button {
@@ -124,4 +129,25 @@ label {
 .wrong {
     background-color: #c22c2c;
     color: #fff;
+}
+
+.score {
+    font-family: titleFont;
+    font-size: 5rem;
+    color: white;
+}
+
+.feedback {
+    font-family: titleFont;
+    color: white;
+}
+
+.wrong-answer {
+    text-align: center;
+    color:#c22c2c;
+}
+
+.right-answer {
+    text-align: center;
+    color: #42a042;
 }

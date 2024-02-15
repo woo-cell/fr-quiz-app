@@ -8,6 +8,7 @@ function createGameOverScreenElement(score) {
     scoreElement.classList.add("score");
     scoreElement.textContent = `${score}/10`
     const scoreFeedback = document.createElement("p");
+    scoreFeedback.classList.add("feedback")
     scoreFeedback.textContent = getScoreFeedback(score);
     
     // create the retry button

@@ -1,9 +1,0 @@
-    <div class="main-container">
-        <div class="main-screen">
-            <div class="logo-container">
-                <h1 class="game-title">Trivia</h1>
-                <p class="slogan">Quiz app : Challenge your knowledge!</p>
-            </div>
-           <button class="start-button">Begin</button>
-        </div>
-    </div>

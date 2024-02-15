@@ -1,0 +1,97 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Geography",
+      "question": "The historical city Timbuktu is located in which West African country?",
+      "correct_answer": "Mali",
+      "incorrect_answers": ["Senegal", "Niger", "Burkina Faso"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science &amp; Nature",
+      "question": "Where did the dog breed &quot;Chihuahua&quot; originate?",
+      "correct_answer": "Mexico",
+      "incorrect_answers": ["France", "Spain", "Russia"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Sports",
+      "question": "In what sport is a &quot;shuttlecock&quot; used?",
+      "correct_answer": "Badminton",
+      "incorrect_answers": ["Table Tennis", "Rugby", "Cricket"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "Which of the following actors does not play a role in the movie &quot;The Usual Suspects?&quot;",
+      "correct_answer": "Steve Buscemi",
+      "incorrect_answers": ["Kevin Spacey", "Benicio Del Toro", "Gabriel Byrne"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "What year was hockey legend Wayne Gretzky born?",
+      "correct_answer": "1961",
+      "incorrect_answers": ["1965", "1959", "1963"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Books",
+      "question": "Who is the author of the series &quot;Malazan Book of the Fallen&quot;?",
+      "correct_answer": "Steven Erikson",
+      "incorrect_answers": [
+        "Ian Cameron Esslemont",
+        "George R. R. Martin",
+        "J. R. R. Tolkien"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Gadgets",
+      "question": "Which gaming console is developed by Sony?",
+      "correct_answer": "PlayStation",
+      "incorrect_answers": ["Xbox", "Atari", "Nintendo Switch"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Musicals &amp; Theatres",
+      "question": "Who played Marquis de Lafayette and Thomas Jefferson in the original Broadway run of Hamilton?",
+      "correct_answer": "Daveed Diggs",
+      "incorrect_answers": [
+        "Lin-Manuel Miranda",
+        "Javier Mu&ntilde;oz",
+        "Wayne Brady"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "In &quot;Overwatch&quot;, which hero is able to wallride?",
+      "correct_answer": "Lucio",
+      "incorrect_answers": ["Reinhardt", "Sombra", "Mercy"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "In &quot;Highschool DxD&quot;, what is the name of the item some humans are born with?",
+      "correct_answer": "Sacred Gear",
+      "incorrect_answers": [
+        "Imperial Arm",
+        "Hallowed Relic",
+        "Blessed Artifact"
+      ]
+    }
+  ]
+}
